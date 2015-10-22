@@ -1,4 +1,4 @@
-# agariomod// ==UserScript==
+// ==UserScript==
 // @name         Client Bot
 // @namespace    Client Bot
 // @version      2.0
